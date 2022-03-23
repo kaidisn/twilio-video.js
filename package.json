@@ -37,7 +37,7 @@
     "browserify": "^17.0.0",
     "cheerio": "^0.22.0",
     "cors": "^2.8.5",
-    "electron": "^9.1.0",
+    "electron": "^13.6.6",
     "envify": "^4.0.0",
     "eslint": "^6.2.1",
     "eslint-config-standard": "^14.0.0",
